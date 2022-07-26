@@ -83,7 +83,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "🌐 HELP", url="https://t.me/warbotzsupport"
+                        "🌐 HELP", url="https://t.me/banglavipchat"
                     )
                 ],
             ]
