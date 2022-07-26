@@ -71,7 +71,7 @@ async def start_(client: Client, message: Message):
                 [InlineKeyboardButton("❓ Basic Guide", callback_data="cbhowtouse")],
                 [
                     InlineKeyboardButton("📚 Commands", callback_data="cbcmds"),
-                    InlineKeyboardButton("❤️ info", url=f"https://t.me/wrrlegend"),
+                    InlineKeyboardButton("❤️ info", url=f"https://t.me/banglavipchat"),
                 ],
                 [
                     InlineKeyboardButton(
